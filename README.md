@@ -1,6 +1,4 @@
-# Namaste React 🚀
-
-
+#Features Implemented
 # Parcel
 - Dev Build
 - Local Server
